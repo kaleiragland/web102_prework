@@ -21,6 +21,10 @@ body {
 
 .stats-container {
     display: flex;
+    align-items: center;
+    cursor: pointer;
+    /*box-shadow: 0 0 30px lightblue;*/
+
 }
 
 .stats-card {
@@ -43,7 +47,9 @@ body {
 }
 
 .game-img {
-    width: 100%;
+    width: 100%; 
+    max-width: 200px; 
+    height: auto; 
     border-radius: 5px;
     box-shadow: 0 0 10px #FFFFFF;
 }
