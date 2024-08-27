@@ -1,8 +1,8 @@
-# WEB102 Prework - *Sea Monster Crowdfuncing*
+# WEB102 Prework - *Game Statistics*
 
 Submitted by: **Kalei Ragland**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Game Statistics** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **10** hours spent in total
 
@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/kigi07W' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[https://imgur.com/a/kigi07W'](https://imgur.com/gallery/codepath-kigi07W) title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap  
@@ -35,7 +35,7 @@ GIF created with LiceCap
 ## Notes
 
 Describe any challenges encountered while building the app.
-Had to do a good amount of research on the various functions used in the prework. 
+- Had to do a good amount of research on the various functions used in the prework. 
 
 ## License
 
